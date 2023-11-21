@@ -58,4 +58,4 @@ The standard units used are: time [ns], cos(angle) [pi], light injection displac
 ## Citation
 When publishing material that contains simulated data using this work, please ensure the code is referenced at all times.
 
-You can reference this work using _TBC_. 
+You can reference this work through the SNO+ scintillator laserball paper (https://doi.org/10.48550/arXiv.2310.12745) which is currently in preprint. 
